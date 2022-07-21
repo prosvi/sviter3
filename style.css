@@ -1,0 +1,105 @@
+body{
+            width: 1000px;
+            margin: 0 auto;
+            font-family: 'Nunito', sans-serif;
+        }
+        .header{
+            display: flex;
+        }
+        .header_menu{
+            display: flex;
+        }
+        .header_list{
+            display: flex;
+            list-style: none;
+            gap: 38px;
+            align-items: flex-end;
+            margin: 0;
+            margin-bottom: 25px;
+            padding: 0;
+            font-size: 30px;
+            line-height: 37px;
+                        }
+        .header_list_link{
+        color: black;
+        text-decoration: none;
+        }
+        a:hover{
+        color: #FDAEAE;
+        }
+        .header_logo{
+        margin-top: 14px;
+        margin-right: 35px;
+        margin-left: 54px;
+        margin-bottom: 25px;
+        width: 126px;
+        height: 130px;
+        }
+        h1{
+        font-size: 40px;
+        line-height: 55px;
+        margin-left: 54px;
+        margin-top: 31px;
+        margin-bottom: 15px;
+            }
+        .content_main_text{
+        width: 700px;
+        font-size: 30px;
+        line-height: 41px;
+        margin-left: 54px;
+        margin-top: 0px;
+        margin-bottom: 0;
+        padding: 0;
+                }
+        .content_text{
+        display: flex;
+        }
+        .content_list{
+        width: 379px;
+        list-style: none;
+        margin: 0;
+        padding-left: 54px;
+        padding-top: 38px;
+        padding-bottom: 0px;
+        padding-right: 110px;         
+        }
+        h2{
+        font-weight: 700;
+        font-size: 25px;
+                   margin: 0;
+        }
+        .content_description{
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 34px;
+        margin: 0;
+        padding-bottom: 22px;
+        }      
+        .content_image{
+        width: 365px;
+        height: 478px;
+        left: 516px;
+        top: 822px;
+             }        
+        .footer{
+        background-color: #3F3939;
+        color: #FFFFFF;
+        margin: 0;
+        padding: 55px;
+        padding-left: 54px;
+        padding-bottom: 68px;                
+        }
+        .footer_list{
+        font-size: 20px;
+        line-height: 27px;
+        letter-spacing: 0.05em;
+        display: flex;
+        list-style: none;
+        gap: 39px;
+        margin: 0;
+        padding: 0;
+                }
+        .footer_list_link{
+        color: #FFFFFF;
+        text-decoration: none;   
+        }
